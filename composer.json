@@ -1,0 +1,19 @@
+{
+    "name": "shomsy/password-generator",
+    "description": "Fitpass Test - Password Generator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "PasswordGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shomsy",
+            "email": "milosharkor@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
